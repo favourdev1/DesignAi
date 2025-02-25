@@ -1,7 +1,9 @@
 
 # React + TypeScript + Vite Project
 
-This is a modern web application built with React, TypeScript, and Vite. The project uses Tailwind CSS for styling.
+This is a modern web application built with React, TypeScript, and Vite. It uses Ai connected with LM studio to generate web page based on user input 
+
+![Demo Image ](image.png)
 
 ## Tech Stack
 
@@ -55,4 +57,3 @@ src/
   ├── index.css      # Global styles
   └── vite-env.d.ts  # TypeScript declarations
 ```
-![Demo Image ](image.png)
